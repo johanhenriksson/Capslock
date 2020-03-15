@@ -2442,7 +2442,8 @@
             {
               "key_code": "spacebar",
               "modifiers": [
-                "left_control"
+                "left_shift",
+                "left_command"
               ]
             }
           ],
